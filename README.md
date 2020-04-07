@@ -1,7 +1,6 @@
 # AB<->BA SubStrings?
 
-[![Build Status](https://travis-ci.com/boivlad/ab-ba-string.svg?branch=feature/MSVLAD-72)](https://travis-ci.com/boivlad/ab-ba-string)
-
+[![Build Status](https://travis-ci.com/boivlad/ab-ba-string.svg?branch=feature%2FMSVLAD-72)](https://travis-ci.com/boivlad/ab-ba-string)
 ## How to test:
 1. Clone this repository
 2. `npm intsall`
