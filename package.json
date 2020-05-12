@@ -1,0 +1,30 @@
+{
+  "name": "ab-ba-string",
+  "version": "1.0.0",
+  "description": "The function should return a boolean if the string contains AB and BA substrings.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha",
+    "coverage": "nyc npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boivlad/ab-ba-string.git"
+  },
+  "author": "Vladyslav Boichenko",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/boivlad/isBinarySearchTree/issues"
+  },
+  "homepage": "https://github.com/boivlad/isBinarySearchTree#readme",
+  "dependencies": {
+    "mocha": "^7.1.1"
+  },
+  "devDependencies": {
+    "nyc": "^15.0.1"
+  }
+}
